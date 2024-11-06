@@ -20,9 +20,11 @@ class HomeSubScreensController extends GetxController{
   List letters=[
     'A',"B","C","D"
   ];
+
   List options=[
     'option a',"option b","option c","option d"
   ];
+
 int? correctAnswerIndex=2;
 
 
